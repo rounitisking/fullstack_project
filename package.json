@@ -3,8 +3,10 @@
   "version": "1.0.0",
   "description": "learning a fullstack project with chai aur code ",
   "main": "index.js",
+  "type": "module",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node index.js",
+    "rs": "nodemon index.js"
   },
   "repository": {
     "type": "git",
@@ -15,5 +17,12 @@
   "bugs": {
     "url": "https://github.com/rounitisking/fullstack_project/issues"
   },
-  "homepage": "https://github.com/rounitisking/fullstack_project#readme"
+  "homepage": "https://github.com/rounitisking/fullstack_project#readme",
+  "dependencies": {
+    "dotenv": "^17.2.1",
+    "express": "^5.1.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  }
 }
