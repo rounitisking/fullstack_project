@@ -1,0 +1,2 @@
+node ke sath npm ata hai jiska matlab hai node package manager
+to start a project start with npm init

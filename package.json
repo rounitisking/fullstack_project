@@ -1,0 +1,19 @@
+{
+  "name": "fullstack",
+  "version": "1.0.0",
+  "description": "learning a fullstack project with chai aur code ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rounitisking/fullstack_project.git"
+  },
+  "author": "rounit singh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rounitisking/fullstack_project/issues"
+  },
+  "homepage": "https://github.com/rounitisking/fullstack_project#readme"
+}
