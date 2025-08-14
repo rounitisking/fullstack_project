@@ -20,6 +20,6 @@ if you have given the wrong github link erlier then do these steps :-
 
 
 for future pushes into the git 
-1. git add .
+1. git add .  -- after this if you want to check if all the files are included then run this command = git status  after running this command u will be getting all files in green
 2. git commit -m "your message"
 3. git push
